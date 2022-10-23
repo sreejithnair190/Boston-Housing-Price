@@ -1,0 +1,5 @@
+django
+sklearn
+pandas
+numpy
+matplotlib
